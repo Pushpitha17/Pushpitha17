@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Pushpitha!
-👩🏻‍💻 I am Fulllstack web developer using JavaScript Stack.<br/>
+👩🏻‍💻 I am Fulllstack web developer using JavaScript Stack , Find my peoject portfolio [Here](www.pushpitha.fyi/projects).<br/>
 👩🏻‍🎓 Studied Materials Science and Engineering at the University of Moratuwa, Sri Lanka<br/>
 
-
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Pushpitha17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
